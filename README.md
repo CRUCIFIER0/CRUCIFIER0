@@ -35,3 +35,13 @@ Here are some ideas to get you started:
 ---------------
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CRUCIFIER0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+---------------
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
